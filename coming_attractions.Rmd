@@ -244,3 +244,9 @@ steps to learn R and I want to show you what the payoff for your work
 will look like down the line.
 
 What other questions could you ask about this data?
+
+
+We can find the most expensive oldest building in each city?
+We can find the average of the land values in Boston area
+We can find buildings with good exterior conditions
+etc...
